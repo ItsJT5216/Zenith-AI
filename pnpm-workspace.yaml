@@ -16,7 +16,7 @@ catalog:
   typescript: ^7.0.2
 
   # Misc
-  zod: ^4.5.4
+  zod: ^4.6.4
 
   # AI
   ai: ^7.0.96
