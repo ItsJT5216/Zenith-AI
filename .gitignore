@@ -74,3 +74,8 @@ public/_piny/piny.phone.js
 
 # TypeScript solution build declarations
 packages/web/dist-types/
+
+# AI and debug artifacts
+.aider*
+core.*
+
